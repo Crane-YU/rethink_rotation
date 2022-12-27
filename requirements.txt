@@ -1,0 +1,6 @@
+numpy
+torch
+matplotlib
+scikit-learn
+tqdm
+h5py
