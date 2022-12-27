@@ -1,6 +1,6 @@
 # Rethink Rotation
 
-Official implementation of "Rethinking Rotation Invariance as Point Cloud Registration", AAAI 2023
+Official implementation of "Rethinking Rotation Invariance with Point Cloud Registration", AAAI 2023
 
 [[Paper]]() [[Supp.]]() [[Video]]()
 
